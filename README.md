@@ -7,7 +7,7 @@ Made with: **React.js**
 
 ### Launch
 ```
-cd mediapark_test
+cd -Mediapark-ReactJS-practical-assignment-master
 npm install
 npm start
 ```
