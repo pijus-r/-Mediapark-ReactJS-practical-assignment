@@ -1,7 +1,7 @@
 # Mediapark - practical assignment
 Made with: **React.js**
 
-![alt text](https://github.com/pijus-r/SwedTest/blob/master/swedtest.gif)
+![alt text](https://github.com/pijus-r/-Mediapark-ReactJS-practical-assignment/blob/master/gif.gif?raw=true)
 
 
 
