@@ -5,7 +5,7 @@ Made with: **React.js**
 
 
 
-### Launch ->
+### Launch
 ```
 cd mediapark_test
 npm install
