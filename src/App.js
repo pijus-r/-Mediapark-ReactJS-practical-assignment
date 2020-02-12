@@ -36,7 +36,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <div className="main-header top">
+        <div className="main-header">
           <div className="inner">
             <ImageForm onSearch={this.performSearch} />
           </div>
