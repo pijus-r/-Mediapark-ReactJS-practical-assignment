@@ -1,15 +1,13 @@
-# Mediapark - practical assignment
+# Unsplash image retrieval
 Made with: **React.js**
 
-![alt text](https://github.com/pijus-r/GithubAPI_SPA/blob/master/gif.gif?raw=true)
+![alt text](https://github.com/pijus-r/unsplash-image-retrieval/blob/master/gif.gif?raw=true)
 
 
 
 ### Launch
 ```
-cd -Mediapark-ReactJS-practical-assignment-master
-npm install
-npm start
+npm install && npm start
 ```
 
 @ Pijus Rancevas
