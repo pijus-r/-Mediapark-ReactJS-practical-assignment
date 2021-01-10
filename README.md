@@ -10,4 +10,3 @@ Made with: **React.js**
 npm install && npm start
 ```
 
-@ Pijus Rancevas
